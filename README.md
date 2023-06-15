@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> Hi There My name is Kaan karahanlı <img align="right" width="15%" src="https://komarev.com/ghpvc/?username=vante-xyz&color=191717">
+<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"> Hi There My name is Kaan karahanlı
 ===========================
 
 <img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=vante-xyz&data=followers,repositories,stars,commits&theme=darkmode">
