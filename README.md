@@ -13,6 +13,7 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 
 ---
 <img width="50%" align="right" src="https://count.getloli.com/get/@:vante-xyz?theme=rule34">
+<img width="50%" align="right" src="https://luppufy.onrender.com/797096076330795018">
 
 ### Experience
 - Python (d.py) 
@@ -29,7 +30,3 @@ I strive to excel in both areas and constantly seek opportunities to enhance my 
 💬 Discord • [q7x](https://discord.com/users/797096076330795018)
 
 🌎 Luppux • [Community](https://discord.gg/luppux)
-
-### Discord Card
-
-<a href="https://discord.com/users/797096076330795018"><img src="https://luppufy.onrender.com/797096076330795018"></a>
