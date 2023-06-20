@@ -16,6 +16,9 @@
 
 #
 
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=vante-xyz&data=followers,repositories,stars,commits&theme=darkmode">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,react,vue,html,css&theme=darkmode">
+
 <b> Experience <b>
 <samp>
 - Python (d.py) 
@@ -29,9 +32,6 @@
 <samp>
 - PostgreSQL, MySQL, SQLite
 <samp>
-
-<img width="50%" align="right" src="https://count.getloli.com/get/@:vante-xyz?theme=rule34">
-<img width="50%" align="right" src="https://luppufy.onrender.com/797096076330795018">
 
 ## I'm Listening Right Now
 
