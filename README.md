@@ -16,9 +16,6 @@
 
 #
 
-<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=vante-xyz&data=followers,repositories,stars,commits&theme=darkmode">
-<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,react,vue,html,css&theme=darkmode">
-
 <b> Experience <b>
 <samp>
 - Python (d.py) 
@@ -33,6 +30,12 @@
 - PostgreSQL, MySQL, SQLite
 <samp>
 
+#
+
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/profile?username=vante-xyz&data=followers,repositories,stars,commits&theme=darkmode">
+<img width="50%" align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,ts,react,vue,html,css&theme=darkmode">
+
+#
 ## I'm Listening Right Now
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31lmzhpy2migtudcggvvnrrth73y&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
