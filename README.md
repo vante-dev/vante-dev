@@ -5,7 +5,7 @@
 
 #
 
-<img width="30%" align="right" src="https://luppufy.onrender.com/v2/797096076330795018">
+<img width="30%" align="right" src="https://luppufy.onrender.com/member/797096076330795018">
 <div align="left" width="100%">
 
 <p align="center">
