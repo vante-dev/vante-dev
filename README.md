@@ -10,7 +10,7 @@
 
 <p align="center">
  <a href="https://discord.com/users/797096076330795018" target"blank_"><img width="15%" src="https://img.shields.io/badge/Discord%20-030303.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/vante-xyz" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/vante-dev" target"blank_"><img width="14%" src="https://img.shields.io/badge/GitHub%20-030303.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://open.spotify.com/user/31ofln37ijxflqlbvke75mzsm5qi?si=084cc19a48614698" target"blank_"><img width="15%" src="https://img.shields.io/badge/Spotify%20-030303.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
  <a href="https://www.instagram.com/kaanxsrd/" target"blank_"><img width="18%" src="https://img.shields.io/badge/INSTAGRAM%20-030303.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a><p>
 
@@ -35,7 +35,7 @@
 
  <img width="40%" align="left" src="https://spotify-github-profile.vercel.app/api/view?uid=31ofln37ijxflqlbvke75mzsm5qi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&bar_color=ffffff&bar_color_cover=false"/>
 
-<img  align="right" width="40%" src="https://count.getloli.com/get/@:vante-xyz?theme=asoul"> 
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:vante-dev?theme=asoul"> 
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vante-xyz&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
-<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vante-xyz&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vante-dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vante-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
