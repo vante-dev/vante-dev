@@ -30,6 +30,12 @@
 - PostgreSQL, MySQL, SQLite
 <samp>
 
+<b> Projects <b>
+<samp>
+- Portfolio: https://vante.dev/
+- Rest API:  https://rest.vante.dev/
+- Management Panel: https://dashboard.vante.dev/ (soon)
+<samp>
 
 ## I'm Listening Right Now
 
