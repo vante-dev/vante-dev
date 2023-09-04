@@ -19,21 +19,16 @@
 <b> Experience <b>
 <samp>
 - Python (d.py) 
-- JavaScript, TypeScript,
+- JavaScript, NestJS, TypeScript
 - React (Next.js), Vue (VueX, Nuxt.js)
 - HTML, CSS (TailwindCSS)
-- MongoDB
-<samp>
-
-<b> Currently Learning <b>
-<samp>
-- PostgreSQL, MySQL, SQLite
+- MongoDB, Prisma (PostgreSQL, MySQL, SQLite)
 <samp>
 
 <b> Projects <b>
 <samp>
 - Portfolio: https://vante.dev/
-- Rest API:  https://rest.vante.dev/
+- Rest API:  https://api.vante.dev/
 - Management Panel: https://dashboard.vante.dev/ (soon)
 <samp>
 
