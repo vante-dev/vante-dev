@@ -29,7 +29,9 @@
 <samp>
 - Portfolio: https://vante.dev/
 - Rest API:  https://api.vante.dev/
-- Management Panel: https://dashboard.vante.dev/ (soon)
+- VanteDB: https://github.com/vante-dev/vantedb
+  
+- https://vante.dev/projects
 <samp>
 
 ## I'm Listening Right Now
