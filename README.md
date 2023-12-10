@@ -37,6 +37,6 @@
 ## I'm Listening Right Now
 <img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=31ofln37ijxflqlbvke75mzsm5qi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 
-<img width="45%" src="https://moe-counter.glitch.me/get/@:vante-dev?theme=asoul">
+<img width="35%" src="https://moe-counter.glitch.me/get/@:vante-dev?theme=asoul">
 
 
