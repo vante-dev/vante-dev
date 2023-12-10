@@ -41,6 +41,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=vante-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0f1017" alt="My Stats"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api?username=vante-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&bg_color=0f1017" alt="My Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=vante-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0f1017" alt="My Stats"/>
+<img width="35%" src="https://streak-stats.demolab.com?user=vante-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0f1017" alt="My Stats"/>
