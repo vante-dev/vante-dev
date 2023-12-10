@@ -35,4 +35,4 @@
 <samp>
 
 ## I'm Listening Right Now
-<img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=31phjmcjluxu5zd4gubfspa2jaqe&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<img width="45%" src="https://spotify-github-profile.vercel.app/api/view?uid=31ofln37ijxflqlbvke75mzsm5qi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
