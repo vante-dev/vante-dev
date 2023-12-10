@@ -36,8 +36,6 @@
 
 ## I'm Listening Right Now
 
-<img src="https://streak-stats.demolab.com?user=vante-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22" alt="Vante GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=vante-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22" alt="Vante GitHub Stats"/>
-
-<img src="https://streak-stats.demolab.com?user=vante-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=161B22" alt="Vante GitHub Stats"/>
+<img  align="right" width="40%" src="https://count.getloli.com/get/@:vante-dev?theme=asoul"> 
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=vante-dev&show_icons=true&theme=react&hide_border=true&bg_color=0D1117">" alt="Vante GitHub Stats"/>
+<img align="left" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=vante-dev&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">" alt="Vante GitHub Stats"/>
