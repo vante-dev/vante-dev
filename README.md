@@ -19,19 +19,10 @@
 <b> Experience <b>
 <samp>
 - Python (d.py) 
-- JavaScript, NestJS, TypeScript
-- React (Next.js), Vue (VueX, Nuxt.js)
+- JavaScript, TypeScript, Node.js (d.js, Express, Socket.IO, NestJS)
+- React (Redux, Next.js), Vue (VueX, Nuxt.js)
 - HTML, CSS (TailwindCSS)
-- MongoDB, Prisma (PostgreSQL, MySQL, SQLite)
-<samp>
-
-<b> Projects <b>
-<samp>
-- Portfolio: https://vante.dev/
-- Rest API:  https://api.vante.dev/
-- VanteDB: https://github.com/vante-dev/vantedb
-  
-- https://vante.dev/projects
+- PostgreSQL, MySQL, SQLite, MongoDB, Redis (Prisma/Mongoose)
 <samp>
 
 ## I'm Listening Right Now
