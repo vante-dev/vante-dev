@@ -5,7 +5,7 @@
 
 #
 
-<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/797096076330795018?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
+<img width="30%" align="right" src="https://lanyard.kyrie25.me/api/155545251866607616?decoration=true&useDisplayName=true&animationDuration=2s&waveColor=7ea1f3&imgStyle=square&imgBorderRadius=16px&&bg=DD272700&idleMessage=Nothingness">
 <div align="left" width="100%">
 
 <p align="center">
