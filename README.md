@@ -5,8 +5,8 @@
     Hi there, I'm Kaan 'Vante' Karahanlı <br>
     I am an Full-Stack Backend Developer <br>
     <br><img src="https://count.getloli.com/get/@:vante-dev?theme=asoul">
+    <br><br>
     [![Discord Presence](https://lanyard.cnrad.dev/api/155545251866607616?hideActivity=true)](https://discord.com/users/155545251866607616)
-    <br><br> 
   </samp>
 </p>
 
