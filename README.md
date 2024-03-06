@@ -10,4 +10,3 @@
 </p>
 
 <a href="https://vante.dev/" target="_blank"><img src="https://media.discordapp.net/attachments/1083102196054364331/1120840787844935690/KaanProfile.png" alt="MasterHead" style="max-width: 100%;"></a>﻿
-#
